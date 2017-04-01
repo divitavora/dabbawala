@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "339512376413",
+    "firebase_url": "https://dabba-a52df.firebaseio.com",
+    "project_id": "dabba-a52df",
+    "storage_bucket": "dabba-a52df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339512376413:android:c4c577d571bea1ea",
+        "android_client_info": {
+          "package_name": "com.example.dishankaashvi.dabba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339512376413-ut4ihjfvbadjjsnfmhiqgl1qnbdmp55k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dishankaashvi.dabba",
+            "certificate_hash": "c517d9d8c59beb5517e83dbcccf878f1b46cda4d"
+          }
+        },
+        {
+          "client_id": "339512376413-7l8bd6bsv918uijjo3s3beoconhujj9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dishankaashvi.dabba",
+            "certificate_hash": "3033a51bf47e9b0bc5bb6bf487806984afb33e70"
+          }
+        },
+        {
+          "client_id": "339512376413-2el3uoff7ibvgs80mfo46eefhga2foph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmh3t2CUD3tjU9d91xAEYBT_5yOAaZCGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339512376413-2el3uoff7ibvgs80mfo46eefhga2foph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
